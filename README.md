@@ -18,6 +18,8 @@
 
 2. [이벤트 루프는 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/JavaScript/event-loop.md)
 
+3. [불변성에 대해 설명하고 왜 불변성을 지켜야 하는가요?](/JavaScript/Immutability.md)
+
 ### React
 
 1. [고차 컴포넌트(HOC)는 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/React/HOC.md)
