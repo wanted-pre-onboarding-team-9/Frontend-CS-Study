@@ -16,6 +16,8 @@
 
 1. [JavaScript 최적화 방법에 대해서 설명해주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/JavaScript/javascript-optimize.md)
 
+2. [이벤트 루프는 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/JavaScript/event-loop.md)
+
 ### React
 
 1. [고차 컴포넌트(HOC)는 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/React/HOC.md)
