@@ -20,6 +20,8 @@
 
 3. [불변성에 대해 설명하고 왜 불변성을 지켜야 하는가요?](/JavaScript/Immutability.md)
 
+4. [얕은복사와 깊은복사의 차이를 설명해주세요.](/JavaScript/shallow-copy_deep-copy.md)
+
 ### React
 
 1. [고차 컴포넌트(HOC)는 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/React/HOC.md)
