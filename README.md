@@ -6,6 +6,10 @@
 
 ### CS
 
+1. [blocking, non-blocking, sync, async에 대해 설명해주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/CS/blocking-nonbloking-sync-async.md)
+
+2. [async, await은 무엇이고 Promise와의 차이점은 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/JavaScript/async-await-promise.md)
+
 ### WEB
 
 1. [PWA란 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/Web/PWA.md)
