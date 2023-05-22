@@ -30,6 +30,8 @@
 
 6. [웹페이지 렌더링 순서](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/Web/browser-rendering.md)
 
+7. [CSR과 SSR에 대한 설명](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/Web/csr-ssr.md)
+
 ### JavaScript
 
 1. [JavaScript 최적화 방법에 대해서 설명해주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/JavaScript/javascript-optimize.md)
@@ -41,6 +43,8 @@
 4. [얕은복사와 깊은복사의 차이를 설명해주세요.](/JavaScript/shallow-copy_deep-copy.md)
 
 5. [async, await은 무엇이고 Promise와의 차이점은 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/JavaScript/async-await-promise.md)
+
+6. [순수함수란 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/JavaScript/pure-function.md)
 
 ### React
 
