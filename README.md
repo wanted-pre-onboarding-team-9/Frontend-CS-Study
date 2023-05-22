@@ -44,6 +44,8 @@
 
 2. [Virtual DOM이 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/React/virtual-dom.md)
 
+3. [Reconciliation에 대해 설명해 주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/React/reconciliation.md)
+
 ### HTML/CSS
 
 ### Contributors
