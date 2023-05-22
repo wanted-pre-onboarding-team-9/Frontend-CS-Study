@@ -10,11 +10,15 @@
 
 2. [async, await은 무엇이고 Promise와의 차이점은 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/JavaScript/async-await-promise.md)
 
+3. [스택과 큐 자료구조에 대해 설명해주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/CS/stack-queue.md)
+
 ### WEB
 
 1. [PWA란 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/Web/PWA.md)
 
 2. [HTTP와 HTTPS의 차이점은 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/Web/http-https.md)
+
+3. [HTTP status code에 대해 설명해주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/Web/http-status-code.md)
 
 ### JavaScript
 
