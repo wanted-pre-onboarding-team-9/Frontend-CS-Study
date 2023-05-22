@@ -42,6 +42,8 @@
 
 1. [고차 컴포넌트(HOC)는 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/React/HOC.md)
 
+2. [Virtual DOM이 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/React/virtual-dom.md)
+
 ### HTML/CSS
 
 ### Contributors
