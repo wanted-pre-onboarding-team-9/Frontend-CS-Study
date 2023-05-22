@@ -12,6 +12,8 @@
 
 3. [스택과 큐 자료구조에 대해 설명해주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/CS/stack-queue.md)
 
+4. [Map 자료구조와 Set의 자료구조에 대해 설명해주세요](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/CS/map-set.md)
+
 ### WEB
 
 1. [PWA란 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/Web/PWA.md)
