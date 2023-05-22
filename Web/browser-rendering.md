@@ -1,10 +1,10 @@
 # 웹페이지 렌더링 순서
 
 <img src="https://velog.velcdn.com/images/zaman17/post/7281bb76-19be-4307-b6b9-4e849b3123a9/image.png"
-width="300" height="100"/>
+width="500" height="200"/><br/>
 
-1. HTML 파서가 문서를 파싱해서 DOM tree를 만들고, CSS 파서가 CSSOM tree를 생성합니다.
-   <img src="https://velog.velcdn.com/images/zaman17/post/c676ccc7-e216-43c4-94a6-b31f6e2d128f/image.png" width="300" height="200">
+1. HTML 파서가 문서를 파싱해서 DOM tree를 만들고, CSS 파서가 CSSOM tree를 생성합니다. <br/>
+   <img src="https://velog.velcdn.com/images/zaman17/post/c676ccc7-e216-43c4-94a6-b31f6e2d128f/image.png" width="500" height="300"> <br/>
 2. DOM tree와 CSSOM tree를 합쳐서 렌더링에 필요한 노드만 선택해 Render tree를 생성하여 페이지를 렌더링 하는데 사용합니다.
 3. Layout 단계에서는 Render Tree를 화면에 어떻게 배치해야 할 것인지 노드의 정확한 위치와 크기를 계산하며,루트부터 노드를 순회하면서 노드의 정확한 크기와 위치를 계산하고 Render Tree에 반영합니다.
 4. Paint 단계에서는 Layout 단계에서 계산된 값을 이용해 Render Tree의 각 노드를 화면상의 실제 픽셀로 변환합니다. 이때 픽셀로 변환된 결과는 하나의 레이어가 아니라 여러 개의 레이어로 관리됩니다.
@@ -28,7 +28,7 @@ width="300" height="100"/>
 6. 자바스크립트 해석기 - 자바스크립트 코드를 해석하고 실행합니다.
 7. 자료 저장소 - 이 부분은 자료를 저장하는 계층입니다. 쿠키를 저장하는 것과 같이 모든 종류의 자원을 하드 디스크에 저장할 필요가 있습니다. HTML5 명세에는 브라우저가 지원하는 '웹 데이터 베이스'가 정의되어 있습니다.(ex. localStorage나 Cookie와 같이 보조 기억장치에 데이터를 저장)
 
- <img src="https://d2.naver.com/content/images/2015/06/helloworld-59361-1.png" width="300" height="100"/>
+ <img src="https://d2.naver.com/content/images/2015/06/helloworld-59361-1.png" width="500" height="300"/>
 
 크롬은 대부분의 브라우저와 달리 각 탭마다 별도의 렌더링 엔진 인스턴스를 유지하는 것이 주목할만하며, 각 탭은 독립된 프로세스로 처리됩니다.
 
@@ -48,12 +48,12 @@ A1. 레이아웃(Layout)은 브라우저에서 요소들의 크기, 위치, 간�
 
 ### UI가 업데이트 되는 경우
 
-1. Layout 부터 다시 업데이트 하는 경우
-   <img src="https://velog.velcdn.com/images/cksrb63/post/e68de285-5166-479c-8e19-c79c6a08538f/image.png" width="100" height="50"/>
+1. Layout 부터 다시 업데이트 하는 경우 <br/>
+   <img src="https://velog.velcdn.com/images/cksrb63/post/e68de285-5166-479c-8e19-c79c6a08538f/image.png" width="500" height="50"/> <br/>
    요소의 위치나 크기가 변경되는 경우에 발생합니다. 또한 브라우저 창의 크기가 변할 때 주로 발생합니다.
-2. Paint 부터 다시 업데이트 하는 경우
-   <img src="https://velog.velcdn.com/images/cksrb63/post/befda346-b8c6-4251-b5d2-86ec2b55f681/image.png" width="100" height="50"/>
+2. Paint 부터 다시 업데이트 하는 경우 <br/>
+   <img src="https://velog.velcdn.com/images/cksrb63/post/befda346-b8c6-4251-b5d2-86ec2b55f681/image.png" width="500" height="50"/> <br/>
    이미지나 텍스트의 색상같이 레이아웃이 변경되지 않는 스타일이 변경될 때 발생합니다.
-3. Composite 부터 다시 업데이트 하는 경우
-   <img src="https://velog.velcdn.com/images/cksrb63/post/3c4b0e45-638a-42b7-bc13-983dd62840bf/image.png" width="100" height="50"/>
+3. Composite 부터 다시 업데이트 하는 경우 <br/>
+   <img src="https://velog.velcdn.com/images/cksrb63/post/3c4b0e45-638a-42b7-bc13-983dd62840bf/image.png" width="500" height="50"/> <br/>
    레이어의 합성만 필요할 때 발생하며, 2개의 과정을 하지 않기 때문에 성능적으로 가장 우수합니다.
