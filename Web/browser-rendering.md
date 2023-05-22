@@ -57,3 +57,10 @@ A1. 레이아웃(Layout)은 브라우저에서 요소들의 크기, 위치, 간�
 3. Composite 부터 다시 업데이트 하는 경우 <br/>
    <img src="https://velog.velcdn.com/images/cksrb63/post/3c4b0e45-638a-42b7-bc13-983dd62840bf/image.png" width="500" height="50"/> <br/>
    레이어의 합성만 필요할 때 발생하며, 2개의 과정을 하지 않기 때문에 성능적으로 가장 우수합니다.
+
+## 참고
+
+https://velog.io/@zaman17/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%88%9C%EC%84%9C%EC%99%80-%EC%9B%90%EB%A6%AC
+https://tecoble.techcourse.co.kr/post/2021-10-24-browser-rendering/
+https://d2.naver.com/helloworld/59361
+https://velog.io/@cksrb63/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EB%A0%8C%EB%8D%94%EB%A7%81%EA%B3%BC-%EC%B5%9C%EC%A0%81%ED%99%94
