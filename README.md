@@ -26,6 +26,8 @@
 
 5. [세션 하이잭에 대한 대응방안](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/Web/session-hijack.md)
 
+6. [웹페이지 렌더링 순서](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/Web/browser-rendering.md)
+
 ### JavaScript
 
 1. [JavaScript 최적화 방법에 대해서 설명해주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/JavaScript/javascript-optimize.md)
