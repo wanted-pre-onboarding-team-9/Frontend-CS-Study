@@ -24,6 +24,8 @@
 
 4. [XSS에 대해 설명하고, 이를 막기 위한 방법에 대해 설명해주세요](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/Web/xss.md)
 
+5. [세션 하이잭에 대한 대응방안](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/Web/session-hijack.md)
+
 ### JavaScript
 
 1. [JavaScript 최적화 방법에 대해서 설명해주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/JavaScript/javascript-optimize.md)
