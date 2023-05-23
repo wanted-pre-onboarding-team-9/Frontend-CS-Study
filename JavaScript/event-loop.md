@@ -4,7 +4,7 @@
 
 # 이벤트 루프의 동작 방식
 
-![Event Loop](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/assets/110877564/77587dcd-668a-4bf1-8d77-de62d5d60a78)
+![Event Loop](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FsAmQE%2FbtseQejZBh4%2FtV5kwIlLLJYEwbKCtC0KQ0%2Fimg.png)
 
 1. 자바스크립트는 하나의 콜 스택을 가지고 있어서 이벤트가 발생하면 스택에 순서대로 쌓이고, 마지막 작업부터 처리하게 됩니다.
 
