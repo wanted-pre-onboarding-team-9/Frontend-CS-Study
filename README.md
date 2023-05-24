@@ -46,6 +46,10 @@
 
 6. [순수함수란 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/JavaScript/pure-function.md)
 
+7. [호이스팅에 대해서 설명해주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/JavaScript/hoisting.md)
+
+8. [let, var, const는 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/JavaScript/let-var-const.md)
+
 ### React
 
 1. [고차 컴포넌트(HOC)는 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/React/HOC.md)
@@ -57,18 +61,18 @@
 ### HTML/CSS
 
 ### 👨‍👩‍👧‍👦 Contributors
-|                                              박상우                                           |                                           장소진                                               |                                           이아영                                             |
-| :----------------------------------------------------------------------------------------:  | :------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
-|                       [SangWoo9734](https://github.com/SangWoo9734)                         |                          [sojinjang](https://github.com/sojinjang)                           |                           [ARONGLEE](https://github.com/ARONGLEE)                           |
+
+|                                           박상우                                            |                                            장소진                                            |                                           이아영                                            |
+| :-----------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
+|                        [SangWoo9734](https://github.com/SangWoo9734)                        |                          [sojinjang](https://github.com/sojinjang)                           |                           [ARONGLEE](https://github.com/ARONGLEE)                           |
 | <img src="https://avatars.githubusercontent.com/u/49917043?v=4" width="200" height="200" /> | <img src="https://avatars.githubusercontent.com/u/111125577?v=6" width="200" height="200" /> | <img src="https://avatars.githubusercontent.com/u/74637336?v=4" width="200" height="200" /> |
 
-|                                            이지현                                             |                                           김성현                                               |                                           이한나                                             |
-| :-----------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
-|                           [j2h30728](https://github.com/j2h30728)                           |                        [kimisadev27](https://github.com/kimisadev27)                         |                       [Han-Na-05-22](https://github.com/Han-Na-05-22)                       |
-| <img src="https://avatars.githubusercontent.com/u/60846068?v=4" width="200" height="200" /> | <img src="https://avatars.githubusercontent.com/u/34756233?v=4" width="200" height="200" />  | <img src="https://avatars.githubusercontent.com/u/97869178?v=4" width="200" height="200" /> |
+|                                           이지현                                            |                                           김성현                                            |                                           이한나                                            |
+| :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
+|                           [j2h30728](https://github.com/j2h30728)                           |                        [kimisadev27](https://github.com/kimisadev27)                        |                       [Han-Na-05-22](https://github.com/Han-Na-05-22)                       |
+| <img src="https://avatars.githubusercontent.com/u/60846068?v=4" width="200" height="200" /> | <img src="https://avatars.githubusercontent.com/u/34756233?v=4" width="200" height="200" /> | <img src="https://avatars.githubusercontent.com/u/97869178?v=4" width="200" height="200" /> |
 
-|                                              전민지                                            |                                          조하닮                                              |                                            김현정                                             |
-| :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
-|                          [mjjeon2645](https://github.com/mjjeon2645)                         |                          [ohcmadah](https://github.com/ohcmadah)                            |                            [sena-22](https://github.com/sena-22)                            |
+|                                            전민지                                            |                                           조하닮                                            |                                            김현정                                            |
+| :------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: |
+|                         [mjjeon2645](https://github.com/mjjeon2645)                          |                           [ohcmadah](https://github.com/ohcmadah)                           |                            [sena-22](https://github.com/sena-22)                             |
 | <img src="https://avatars.githubusercontent.com/u/104840243?v=4" width="200" height="200" /> | <img src="https://avatars.githubusercontent.com/u/52340070?v=4" width="200" height="200" /> | <img src="https://avatars.githubusercontent.com/u/110877564?v=4" width="200" height="200" /> |
-
