@@ -64,6 +64,10 @@
 
 4. [제어 컴포넌트와 비제어 컴포넌트 설명해주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/React/controlled-uncontrolled-component.md)
 
+5. [리액트에 있는 라이프사이클과 각 라이프사이클의 역할을 설명해주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/React/react-lifecycle.md)
+
+6. [클래스 컴포넌트와 함수 컴포넌트의 차이는 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/React/class-function-component.md)
+
 ### HTML/CSS
 
 ### 👨‍👩‍👧‍👦 Contributors
