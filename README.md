@@ -35,6 +35,7 @@
 6. [웹페이지 렌더링 순서](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/Web/browser-rendering.md)
 
 7. [CSR과 SSR에 대한 설명](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/Web/csr-ssr.md)
+8. [브라우저의 동작 방법에 대해 설명해주세요](./Web/browser-operating.md)
 
 ### JavaScript
 
