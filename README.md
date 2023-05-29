@@ -16,6 +16,8 @@
 
 5. [OSI 7계층과 TCP/IP 4계층을 비교하여 설명해주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/CS/OSI-TCPIP.md)
 
+6. [MVC, MVVM 패턴이 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/CS/mvc-mvvm-pattern.md)
+
 ### WEB
 
 1. [PWA란 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/Web/PWA.md)
@@ -50,6 +52,8 @@
 
 8. [let, var, const는 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/JavaScript/let-var-const.md)
 
+9. [this 는 몇가지로 추론될수 있는가요? this에 대해 설명해주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/JavaScript/this.md)
+
 ### React
 
 1. [고차 컴포넌트(HOC)는 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/React/HOC.md)
@@ -57,6 +61,8 @@
 2. [Virtual DOM이 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/React/virtual-dom.md)
 
 3. [Reconciliation에 대해 설명해 주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/React/reconciliation.md)
+
+4. [제어 컴포넌트와 비제어 컴포넌트 설명해주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/React/controlled-uncontrolled-component.md)
 
 ### HTML/CSS
 
