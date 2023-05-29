@@ -20,6 +20,8 @@
 
 7. [라이브러리와 프레임워크를 간단하게 정의해보세요](./CS/library-framework.md)
 
+8. [3-way handshake/4-way handshake는 무엇이고 각 과정은 어떻게 되나요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/CS/3-way-handshake-4-way-handshake.md)
+
 ### WEB
 
 1. [PWA란 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/Web/PWA.md)
@@ -74,6 +76,8 @@
 5. [리액트에 있는 라이프사이클과 각 라이프사이클의 역할을 설명해주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/React/react-lifecycle.md)
 
 6. [클래스 컴포넌트와 함수 컴포넌트의 차이는 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/React/class-function-component.md)
+
+7. [useEffect와 useLayoutEffect의 차이는 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/React/useEffect-useLayoutEffect.md)
 
 ### HTML/CSS
 
