@@ -12,11 +12,11 @@ this는 크게 4가지로 추론될 수 있으며, 4가지 상황에서의 함�
 
 어떤 함수를 함수로서 호출할 경우에는 this가 지정되지 않습니다. 실행 컨텍스트를 활성화할 당시에 this가 지정되지 않은 경우 this는 전역객체를 바라보기 때문에 함수에서의 this는 **전역객체**를 가리킵니다.
 
-<img src="https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/assets/74637336/375bf431-3cf5-4688-baec-5e3b10ab91af"/>
-
 ### 3. 메서드 호출시 this
 
 어떤 함수를 메서드로서 호출하는 경우 this는 **메서드 앞의 객체**를 가리킵니다.
+
+<img src="https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/assets/74637336/375bf431-3cf5-4688-baec-5e3b10ab91af"/>
 
 ### 4. 생성자 함수 호출시 this
 
@@ -37,5 +37,5 @@ This에 별도의 대상을 바인딩 하는 방법이 있는데, 명시적으�
 
 ## 참고
 
-코어 자바스크립트 - 정재남 지음, 위키북스
+코어 자바스크립트 - 정재남 지음, 위키북스 <br/>
 https://poiemaweb.com/js-this
