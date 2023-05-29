@@ -18,6 +18,8 @@
 
 6. [MVC, MVVM 패턴이 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/CS/mvc-mvvm-pattern.md)
 
+7. [라이브러리와 프레임워크를 간단하게 정의해보세요](./CS/library-framework.md)
+
 ### WEB
 
 1. [PWA란 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/Web/PWA.md)
