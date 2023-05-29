@@ -57,6 +57,8 @@
 
 9. [this 는 몇가지로 추론될수 있는가요? this에 대해 설명해주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/JavaScript/this.md)
 
+10. [npm package 관리 방법에 대해 설명해 주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/JavaScript/npm.md)
+
 ### React
 
 1. [고차 컴포넌트(HOC)는 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/React/HOC.md)
