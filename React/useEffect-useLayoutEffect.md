@@ -1,3 +1,5 @@
+# useEffect / useLayoutEffect의 차이점은 무엇인가
+
 ## useEffect
 
 > 💡 외부 시스템과 컴포넌트를 동기화 할 수 있게 해주는 React Hook.
