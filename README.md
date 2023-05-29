@@ -59,6 +59,8 @@
 
 10. [npm package 관리 방법에 대해 설명해 주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/JavaScript/npm.md)
 
+11. [클로저에 대해서 설명해 주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/JavaScript/closure.md)
+
 ### React
 
 1. [고차 컴포넌트(HOC)는 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/React/HOC.md)
