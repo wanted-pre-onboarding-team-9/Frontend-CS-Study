@@ -68,6 +68,8 @@
 
 12. [ESModule과 CommonJS의 작동방식 차이, 빌드 결과물 차이에 대해 설명해주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/JavaScript/ESModule-CommonJS.md)
 
+13. [화살표 함수와 일반 함수의 차이는 무엇인가요? ](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/JavaScript/function-differences.md)
+
 ### React
 
 1. [고차 컴포넌트(HOC)는 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/React/HOC.md)
@@ -85,8 +87,6 @@
 7. [useEffect와 useLayoutEffect의 차이는 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/React/useEffect-useLayoutEffect.md)
 
 8. [React에 대해 설명해 주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/React/react-description.md)
-
-9. [화살표 함수와 일반 함수의 차이는 무엇인가요? ](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/React/function-differences.md)
 
 ### HTML/CSS
 
