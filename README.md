@@ -37,7 +37,10 @@
 6. [웹페이지 렌더링 순서](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/Web/browser-rendering.md)
 
 7. [CSR과 SSR에 대한 설명](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/Web/csr-ssr.md)
+
 8. [브라우저의 동작 방법에 대해 설명해주세요](./Web/browser-operating.md)
+
+9. [RESTful API에 대해 설명해주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/Web/RESTful-API.md)
 
 ### JavaScript
 
@@ -62,6 +65,8 @@
 10. [npm package 관리 방법에 대해 설명해 주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/JavaScript/npm.md)
 
 11. [클로저에 대해서 설명해 주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/JavaScript/closure.md)
+
+12. [ESModule과 CommonJS의 작동방식 차이, 빌드 결과물 차이에 대해 설명해주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/JavaScript/ESModule-CommonJS.md)
 
 ### React
 
