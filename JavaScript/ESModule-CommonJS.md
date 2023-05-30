@@ -92,5 +92,5 @@ CommonJS는 Node.js환경에서 자바스크립트 모듈을 사용하기 위해
 
 ## References
 
-[CommonJS와 ESM에 모두 대응하는 라이브러리 개발하기: exports field](https://toss.tech/article/commonjs-esm-exports-field)
+[CommonJS와 ESM에 모두 대응하는 라이브러리 개발하기: exports field](https://toss.tech/article/commonjs-esm-exports-field) <br />
 [[JavaScript] CommonJS, ES Module 이해하기](https://mukma.tistory.com/217)
