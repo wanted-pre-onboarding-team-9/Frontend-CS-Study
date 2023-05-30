@@ -84,6 +84,10 @@
 
 7. [useEffect와 useLayoutEffect의 차이는 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/React/useEffect-useLayoutEffect.md)
 
+8. [React에 대해 설명해 주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/React/react-description.md)
+
+9. [화살표 함수와 일반 함수의 차이는 무엇인가요? ](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/React/function-differences.md)
+
 ### HTML/CSS
 
 ### 👨‍👩‍👧‍👦 Contributors
