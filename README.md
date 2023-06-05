@@ -42,6 +42,8 @@
 
 9. [RESTful API에 대해 설명해주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/Web/RESTful-API.md)
 
+10. [모바일 웹앱에 대해 설명해주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/Web/mobile-web-app.md)
+
 ### JavaScript
 
 1. [JavaScript 최적화 방법에 대해서 설명해주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/JavaScript/javascript-optimize.md)
@@ -89,6 +91,8 @@
 8. [React에 대해 설명해 주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/React/react-description.md)
 
 ### HTML/CSS
+
+1. [css selector 우선순위를 말해주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/CSS/css-selector.md)
 
 ### 👨‍👩‍👧‍👦 Contributors
 
