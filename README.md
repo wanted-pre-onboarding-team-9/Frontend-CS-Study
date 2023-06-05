@@ -1,4 +1,4 @@
-# Frontend-Interview-Study
+# Frontend-CS-Study
 
 ### [🚀 팀 페이지 바로가기](https://pollen-port-115.notion.site/a8087a0d819241dca0a4eb5f8ec87908)
 
@@ -71,6 +71,8 @@
 12. [ESModule과 CommonJS의 작동방식 차이, 빌드 결과물 차이에 대해 설명해주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/JavaScript/ESModule-CommonJS.md)
 
 13. [화살표 함수와 일반 함수의 차이는 무엇인가요? ](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/JavaScript/function-differences.md)
+
+14. [Iterator에 대해 설명해주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-CS-Study/blob/main/JavaScript/iterator.md)
 
 ### React
 
