@@ -22,6 +22,8 @@
 
 8. [3-way handshake/4-way handshake는 무엇이고 각 과정은 어떻게 되나요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/CS/3-way-handshake-4-way-handshake.md)
 
+9. [명령형 vs 선언형 프로그래밍에 대해서 설명해주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-CS-Study/blob/main/CS/Imperative-Declarative.md)
+
 ### WEB
 
 1. [PWA란 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/Web/PWA.md)
