@@ -94,6 +94,8 @@
 
 8. [React에 대해 설명해 주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/React/react-description.md)
 
+9. [JSX가 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-CS-Study/blob/main/React/JSX.md)
+
 ### HTML/CSS
 
 1. [css selector 우선순위를 말해주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/CSS/css-selector.md)
