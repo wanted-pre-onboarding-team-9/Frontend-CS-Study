@@ -96,6 +96,10 @@
 
 1. [css selector 우선순위를 말해주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/CSS/css-selector.md)
 
+2. [flex와 grid의 차이점은 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/CSS/flex-grid.md)
+
+3. [웹 접근성과 시맨틱 마크업이란?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/CSS/web-accessibility.md)
+
 ### 👨‍👩‍👧‍👦 Contributors
 
 |                                           박상우                                            |                                            장소진                                            |                                           이아영                                            |
