@@ -76,6 +76,10 @@
 
 14. [Iterator에 대해 설명해주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-CS-Study/blob/main/JavaScript/iterator.md)
 
+15. [prototype은 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-CS-Study/blob/main/JavaScript/prototype.md)
+
+16. [JavaScript는 어떤 언어인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-CS-Study/blob/main/JavaScript/javaScript.md)
+
 ### React
 
 1. [고차 컴포넌트(HOC)는 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/React/HOC.md)
