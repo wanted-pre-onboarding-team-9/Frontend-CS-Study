@@ -78,7 +78,7 @@
 
 15. [prototype은 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-CS-Study/blob/main/JavaScript/prototype.md)
 
-16. [JavaScript는 어떤 언어인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-CS-Study/blob/main/JavaScript/javaScript.md)
+16. [JavaScript는 어떤 언어인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-CS-Study/blob/main/JavaScript/javascript.md)
 
 ### React
 
