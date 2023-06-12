@@ -76,9 +76,11 @@
 
 14. [Iterator에 대해 설명해주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-CS-Study/blob/main/JavaScript/iterator.md)
 
-15. [prototype은 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-CS-Study/blob/main/JavaScript/prototype.md)
+15. [Generator에 대해 설명해주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-CS-Study/blob/main/JavaScript/generator.md)
 
-16. [JavaScript는 어떤 언어인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-CS-Study/blob/main/JavaScript/javascript.md)
+16. [prototype은 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-CS-Study/blob/main/JavaScript/prototype.md)
+
+17. [JavaScript는 어떤 언어인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-CS-Study/blob/main/JavaScript/javascript.md)
 
 ### React
 
