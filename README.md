@@ -24,6 +24,8 @@
 
 9. [명령형 vs 선언형 프로그래밍에 대해서 설명해주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-CS-Study/blob/main/CS/Imperative-Declarative.md)
 
+10. [크로스 브라우징이란 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-CS-Study/blob/main/CS/cross-browsing.md)
+
 ### WEB
 
 1. [PWA란 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/Web/PWA.md)
@@ -81,6 +83,8 @@
 16. [prototype은 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-CS-Study/blob/main/JavaScript/prototype.md)
 
 17. [JavaScript는 어떤 언어인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-CS-Study/blob/main/JavaScript/javascript.md)
+
+18. [스코프와 스코프체인이 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-CS-Study/blob/main/JavaScript/scope.md)
 
 ### React
 
