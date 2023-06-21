@@ -28,6 +28,8 @@
 
 11. [Webpack, Rollup과 같은 모듈 번들러가 하는 일은 무엇이고 왜 사용하는지 설명해주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-CS-Study/blob/main/CS/module-bundler.md)
 
+12. [OAuth 2.0의 흐름에 대해 간단히 설명해주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-CS-Study/blob/main/CS/oauth.md)
+
 ### WEB
 
 1. [PWA란 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-Interview-Study/blob/main/Web/PWA.md)
@@ -109,6 +111,8 @@
 9. [JSX가 무엇인가요?](https://github.com/wanted-pre-onboarding-team-9/Frontend-CS-Study/blob/main/React/JSX.md)
 
 10. [React Hooks는 무엇인가요? 장점은 뭐가 있나요? 어떤 Hooks가 있는지 설명해주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-CS-Study/blob/main/React/react-hooks.md)
+
+11. [React state와 props에 대해 설명해 주세요.](https://github.com/wanted-pre-onboarding-team-9/Frontend-CS-Study/blob/main/React/state-props.md)
 
 ### HTML/CSS
 
